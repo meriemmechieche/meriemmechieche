@@ -1,12 +1,11 @@
 Hi there 👋
-🔭 Currently working on Dorok, a financial management platform for Algerian businesses.</br>
+🔭 Currently working 3rd year computer science student </br>
 🌱 Learning Web Development, Networking, Operating Systems, and Object-Oriented Programming.</br>
 👯 Open to collaborating on open-source projects, especially in web apps, fintech, and educational platforms.</br>
 🤔 Seeking help and growth in backend technologies </br>
 💬 You can ask me about UI/UX design, community management, and marketing strategies.</br>
 📫 How to reach me: LinkedIn :https://www.linkedin.com/in/mechieche-meriem/  </br>  
-😄 Pronouns: She/Her </br>
-⚡ Fun fact: I love blending creativity and tech — from app design to poetry to building communities!</br>
+⚡ Fun fact: YOU ONLY LIVE ONCE </br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/meriemechieche) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/meriem_mechieche) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mechieche-meriem/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@meriemmechieche) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mechiechemeriem@gmail.com) 
