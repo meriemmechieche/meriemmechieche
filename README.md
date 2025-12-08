@@ -1,7 +1,7 @@
 Hi there 👋
 🔭 Currently working 3rd year computer science student </br>
 🌱 Learning Web Development, Networking, Operating Systems, and Object-Oriented Programming.</br>
-👯 Open to collaborating on open-source projects, especially in web apps, fintech, and educational platforms.</br>
+:) Open to collaborating on open-source projects, especially in web apps, fintech, and educational platforms.</br>
 🤔 Seeking help and growth in backend technologies </br>
 💬 You can ask me about UI/UX design, community management, and marketing strategies.</br>
 📫 How to reach me: LinkedIn :https://www.linkedin.com/in/mechieche-meriem/  </br>  
